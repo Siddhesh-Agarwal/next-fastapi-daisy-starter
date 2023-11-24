@@ -15,6 +15,19 @@ const config: Config = {
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require("daisyui"),
+    require('@tailwindcss/forms'),
+  ],
+  daisyui: {
+    themes: false,
+    darkTheme: "dim",
+    base: true,
+    styled: true,
+    utils: true,
+    prefix: "d-",
+    logs: true,
+    themeRoot: ":root",
+  },
 }
 export default config
