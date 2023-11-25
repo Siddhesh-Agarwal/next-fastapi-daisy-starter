@@ -1,5 +1,8 @@
 # Next + FastAPI + DaisyUI starter template
 
+![image](https://github.com/Siddhesh-Agarwal/next-fastapi-daisy-starter/assets/68057995/272182e9-d0ca-4a06-b090-f881d4353b99)
+
+
 This is a starter template that uses:
 1. [TypeScript 5](https://www.typescriptlang.org/)
 1. [Next.js 14](https://nextjs.org/)
