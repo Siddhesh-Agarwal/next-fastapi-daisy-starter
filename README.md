@@ -13,13 +13,21 @@ This is a starter template that uses:
 
 ## Getting Started
 
+### Create Project
+
+To create a new Project using this repo as a starter template, run:
+```sh
+npx create-next-app@latest --example "https://github.com/Siddhesh-Agarwal/next-fastapi-daisy-starter"
+```
+
 ### Set up the development environment
 
-1. Install [Node.js](https://nodejs.org/en/) and [Python 3](https://www.python.org/).
-2. Run the following command:
-    ```sh
-    npm run setup
-    ```
+**NOTE:** Ensure you have [Node.js](https://nodejs.org/en/) and [Python](https://www.python.org/) installed.
+
+Run the following command:
+```sh
+npm run setup
+```
 
 ### Run the development server
 
