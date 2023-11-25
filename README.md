@@ -1,6 +1,6 @@
 # Next + FastAPI + DaisyUI starter template
 
-![Cover Image](https://github.com/Siddhesh-Agarwal/next-fastapi-daisy-starter/assets/68057995/c2d14527-137f-431b-bf17-5e75497e76dc)
+[![Cover Image](https://github.com/Siddhesh-Agarwal/next-fastapi-daisy-starter/assets/68057995/c2d14527-137f-431b-bf17-5e75497e76dc)](https://next-fastapi-daisy-starter.vercel.app/)
 
 This is a starter template that uses:
 1. [TypeScript 5](https://www.typescriptlang.org/)
